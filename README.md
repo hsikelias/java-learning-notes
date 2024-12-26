@@ -1,2 +1,4 @@
-# java-learning-notes
-Started to learn Java, im sharing my notes here,
+# My-java-learning-notes
+
+### Table of contents
+- [Basics] {./Variables and Data Types}
