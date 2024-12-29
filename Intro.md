@@ -4,3 +4,9 @@
 2.) Compiler: This runs your document, checks for errors and compiles only if everything is correct
 3.) Output(code): The compiler creates a new doc, coded into Java **bytecode**
 4.) Virtual Machines : Physical machines, virtual machine reads and run the bytecode.
+
+# Code structure in Java
+
+![image](https://github.com/user-attachments/assets/244533df-2d36-4bee-9a31-f4827cd0cd9d)
+
+
