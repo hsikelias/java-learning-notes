@@ -58,6 +58,24 @@ public static void main (String [] args) {
 }
 ```
 
+So the above code runs only if the x is 3, if u cange the value of x.. the condition( x ==3) becomes false. So it all depends on the value of x. The only thing that wont change is the "runs no matter what thing".
+
+But we can add an **else** to our condition, to give ourself more options.
+
+```
+class IfTest2 {
+public static void main (String [] args) {
+   int x = 2;
+   if (x ==3) {
+        System.out.println("x must be 3");
+     } else {
+   System.out.println( "x is NOT 3");
+    }
+      System.out.println("This runs no matter what");
+ }
+}
+```
+
 
 
 
