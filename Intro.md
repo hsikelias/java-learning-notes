@@ -55,7 +55,8 @@ public static void main (String [] args) {
      }
    System .out.println( " This runs no matter what");
  }
-}
+} ## Output: x must be 3
+              This runs no matter what
 ```
 
 So the above code runs only if the x is 3, if u cange the value of x.. the condition( x ==3) becomes false. So it all depends on the value of x. The only thing that wont change is the "runs no matter what thing".
@@ -74,7 +75,11 @@ public static void main (String [] args) {
       System.out.println("This runs no matter what");
  }
 }
+     ## Output: x is NOT 3
+        This runs no matter what
 ```
+
+
 
 
 
