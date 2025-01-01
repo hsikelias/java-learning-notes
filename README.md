@@ -1,7 +1,7 @@
 # My-java-learning-notes
 
 ### Table of contents
-- [Intro](Intro.md)
+- [01.Intro to Java Language.md](01.IntrotoJavaLanguage.md)
 - [Variables](Variables.md)
 - [Loops](Loops.md)
 - [Inheritance](Inheritance.md)
