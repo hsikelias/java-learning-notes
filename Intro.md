@@ -7,7 +7,7 @@
 
 # Code structure in Java
 
-![image](https://github.com/user-attachments/assets/244533df-2d36-4bee-9a31-f4827cd0cd9d
+![image](https://github.com/user-attachments/assets/244533df-2d36-4bee-9a31-f4827cd0cd9d)
 
 A **source code file**( with the .java extension) holds on class. The class represents a piece of your program. The class must go within a pair of curly braces.
 
